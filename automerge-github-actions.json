@@ -13,7 +13,8 @@
       "description": "Automerge trusted actions sooner",
       "matchManagers": ["github-actions"],
       "matchPackageNames": [
-        "/^bjw-s-labs\//",
+        "/^jaimemachadoneto\//",
+        "/^jaimemachado\//",
         "/^actions\//"
       ],
       "automerge": true,
